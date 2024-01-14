@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+> [!NOTE]
+> I'm still working on this page so ignore it fow now
+
 <!--
 **T-i-a-7/T-i-a-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
