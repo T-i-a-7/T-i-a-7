@@ -1,4 +1,10 @@
-### Hi there 👋
+###T-i-a-7
+
+Hi there 👋
+
+- my name is Mattia
+- I’m Italian 🇮🇹
+- I like coding and other tech stuff but I'm still at the beginning
 
 > [!NOTE]
 > I'm still working on this page so ignore it for now
