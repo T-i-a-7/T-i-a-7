@@ -1,25 +1,33 @@
-### T-i-a-7
+# 🖥️ My profile
 
-Hi there 👋
+<br/>
 
-- my name is Mattia
-- I’m Italian 🇮🇹
-- I like coding and other tech stuff but I'm still at the beginning
+Hello everyone, my name is Mattia. I really like programming but I still have a lot to learn.
 
-> [!NOTE]
-> I'm still working on this page so ignore it for now
+- **📍 Location:** Italy
+- **🔭 Passion:** Tech enthusiast
+- **🌱 Learning:** I'm learning everything by myself
+- **👀 Exploring:** Always willing to learn new things
+- **⚡ Fun fact:** I am a maniacal perfectionist in what I do
+- **📫 How to reach me:** Here on GitHub
 
-<!--
-**T-i-a-7/T-i-a-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** HTML, CSS, Kotlin, C
+- **Tools:** VS Code, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎨 Graphic Design
+- **Tool:** Figma
+- **Focus:** I really enjoy doing graphic projects of all kinds
+- **Hiring:** I am available to be paid for projects with Figma
+
+---
+
+### 🚀 Current Projects
+- **Android Apps:** Creating various applications for Android
+- **Xiaomi Camera App Porting:** Adapting Xiaomi's camera app for AOSP
+- **Custom Android ROMs:** Developing and tweaking Android ROMs
+- **Android Phone Modding:** Reviving old Android devices with new mods
