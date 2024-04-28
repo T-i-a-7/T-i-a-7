@@ -1,6 +1,6 @@
 # 🖥️ My profile
 
-<br/>
+</br>
 
 Hello everyone, my name is Mattia. I really like programming but I still have a lot to learn.
 
