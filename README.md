@@ -14,7 +14,7 @@ Hello everyone, my name is Mattia. I really like programming but I still have a 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C, Python, HTML, CSS, Kotlin
+- **Languages:** C, Python, HTML, CSS, JavaScript, Kotlin
 - **Tools:** VSCodium, Android Studio, Git
 
 ---
