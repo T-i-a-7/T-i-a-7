@@ -2,14 +2,13 @@
 
 </br>
 
-Hello everyone, my name is Mattia. I really like programming but I still have a lot to learn.
+Self-taught developer passionate about building projects from scratch and understanding how things work under the hood.
 
 - **📍 Location:** Italy
 - **🔭 Passion:** Tech enthusiast
-- **🌱 Learning:** I'm learning everything by myself
-- **👀 Exploring:** Always willing to learn new things
-- **⚡ Fun fact:** I am a maniacal perfectionist in what I do
-- **📫 How to reach me:** Here on GitHub
+- **🌱 Learning:** Kotlin & Android development  
+- **🧠 Approach:** Self-taught, learning by building  
+- **⚡ Fun fact:** I refine things until they feel *just right*  
 
 ---
 
@@ -22,3 +21,8 @@ Hello everyone, my name is Mattia. I really like programming but I still have a 
 ### 🚀 Current Projects
 - **Android Apps:** Creating various applications for Android
 - **Custom Android ROMs:** Developing and tweaking Android ROMs
+
+---
+
+### 📫 Contact
+- GitHub: you're already here 🙂
