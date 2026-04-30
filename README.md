@@ -13,7 +13,7 @@ Self-taught developer passionate about building projects from scratch and unders
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C, Python, HTML, CSS, JavaScript, Kotlin
+- **Languages:** C, Kotlin, Rust (learning), HTML, CSS, JavaScript
 - **Tools:** VSCodium, Android Studio, Git
 
 ---
