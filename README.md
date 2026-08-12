@@ -2,27 +2,21 @@
 
 </br>
 
-Self-taught developer passionate about building projects from scratch and understanding how things work under the hood.
+Building local-first tools and experimenting with Android, Linux and local AI.
 
-- **📍 Location:** Italy
-- **🔭 Passion:** Tech enthusiast
 - **🌱 Learning:** Kotlin & Android development  
 - **🧠 Approach:** Self-taught, learning by building  
 - **⚡ Fun fact:** I refine things until they feel *just right*  
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** C, Kotlin, Rust (learning), HTML, CSS, JavaScript
-- **Tools:** VSCodium, Android Studio, Git
+### ✴️ Focus
+- **Android Apps:** Creating FOSS applications for Android
+- **Local AI:** Experimenting with local AI and agentic workflows
+- **STT tool:** Developing a local-first voice-to-text tool
 
 ---
 
-### 🚀 Current Projects
-- **Android Apps:** Creating various applications for Android
-- **Custom Android ROMs:** Developing and tweaking Android ROMs
-
----
-
-### 📫 Contact
-- GitHub: you're already here 🙂
+### 🛠️ Stack
+- **Languages:** C, Kotlin, Rust
+- **Tools:** Git, VSCodium, Android Studio, agentic development tools
